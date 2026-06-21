@@ -4,7 +4,7 @@
 
 # ⚡ ATHUL HAZE
 
-### 「ソフトウェア開発者」 | SOFTWARE DEVELOPER
+### SOFTWARE DEVELOPER
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Senior+Software+Developer;Java+%7C+Vue.js+%7C+Quasar;Healthcare+Technology+Engineer;Building+CineStudio+AI;Anime+%2B+AI+Creator" />
 
